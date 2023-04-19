@@ -38,7 +38,7 @@ Number of Attributes: 12
 9	10	0.57	rbf	7.51	2.50
 
 ## Convergence Graph
-![graph](https://user-images.githubusercontent.com/72306997/233000047-3bbc6cf2-8ec0-4276-8519-17da7da2fb25.png)
+![graph](https://ibb.co/mRXV5Fq)
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
