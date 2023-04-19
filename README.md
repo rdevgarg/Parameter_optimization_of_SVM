@@ -38,7 +38,7 @@ Number of Attributes: 12
 9	10	0.57	rbf	7.51	2.50
 
 ## Convergence Graph
-![graph](https://ibb.co/mRXV5Fq)
+![graph](https://github.com/rdevgarg/Parameter_optimization_of_SVM/blob/main/graph.png)
 
 ## Discussion
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
